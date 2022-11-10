@@ -1,0 +1,16 @@
+.hist{
+    width: 1000px; 
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.details{
+    position: relative;
+
+}
+#mybutton{
+    position:absolute;
+     top:50px;
+     right:50px;
+}

@@ -1,0 +1,12 @@
+.allBtn{
+    right: 10px;
+    position: fixed;
+    top: 20px;
+}
+.allFlights{
+    width: 1000px; 
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}

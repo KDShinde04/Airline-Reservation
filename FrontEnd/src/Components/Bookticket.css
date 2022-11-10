@@ -1,0 +1,17 @@
+.ticket{
+    width: 500px; 
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.bookBtn{
+    position: fixed;
+    right: 100px;
+    top: 30px;
+}
+.hoBtn{
+    position: fixed;
+    right: 100px;
+    top: 80px; 
+}

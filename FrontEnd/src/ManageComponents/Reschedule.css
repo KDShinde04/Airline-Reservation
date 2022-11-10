@@ -1,0 +1,13 @@
+.Reschedule{
+    width: 800px; 
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.Rbutton{
+    right: 50px;
+    position: fixed;
+    top: 20px;
+}

@@ -1,0 +1,16 @@
+.flight{
+    width: 800px; 
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.details{
+    color:black;
+
+}
+.Fbutton{
+    right: 50px;
+    position: fixed;
+    top: 20px;
+}

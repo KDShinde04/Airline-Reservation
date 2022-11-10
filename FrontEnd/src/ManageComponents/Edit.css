@@ -1,0 +1,15 @@
+.edit{
+
+    width: 500px;
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+
+}
+.EditBtn{
+
+    position: fixed;
+    right: 50px;
+    top: 30px;
+}

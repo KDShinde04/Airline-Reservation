@@ -1,0 +1,14 @@
+ .ManageBtn {
+
+  position: fixed;
+  right: 50px;
+  top: 30px;
+}
+
+.ManageDetails{
+  width: 1000px; 
+  margin:auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+}

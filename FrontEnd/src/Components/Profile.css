@@ -1,0 +1,14 @@
+.profile{
+    width: 600px;
+
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.label{
+
+    text-align: left;
+    float: left;
+    margin-left: 10px;
+}
